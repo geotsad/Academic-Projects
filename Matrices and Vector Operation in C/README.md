@@ -63,8 +63,13 @@ At any time, you can select option 9 to terminate the program.
 
 ## Notes
 > [!NOTE]
-> Make sure the files that contain the matrices and the vectors are in a .txt file and they have the same layout as the ones in the examples that I have uploaded
+> For selection 1(Array Insertion), if the dimensions are not entered correctly, the program will not return the desired results.
 
+> [!NOTE]
+> For selections 3, 4, 5 and 6, necessary condition is that the program must have at least two arrays/vectors. Otherwise, the user will be required to restart the program.
+
+> [!NOTE]
+> Make sure the files that contain the matrices and the vectors are in a .txt file and they have the same layout as the ones in the examples that I have uploaded
 
 > [!NOTE]
 > When a matrix/vector is deleted, their space gets empty and is not replaced by another matrix/vector
