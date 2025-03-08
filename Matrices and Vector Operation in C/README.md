@@ -1,6 +1,6 @@
 # Matrices and Vector Operations in C
 
-This is my first ever project in the university (year 2021). It is called Matrices and Vector Operations and it is implemented in C. This is the project that got me into the world of programming and it has a special place in my heart.
+This is my first ever project in the university, as part of the Structured Programming course in the 1st semester of my studies. It is called Matrices and Vector Operations and it is implemented in C. This is the project that got me into the world of programming and it has a special place in my heart.
 
 ## Table of Contents
 
