@@ -25,4 +25,4 @@ at 50 equally spaced points with t between 0 and 1. In this problem, we assume t
 First, create the vectors t and y that will contain the data/observations. Then, find the polynomial of degree 4 that best approximates the above function for the given observations using the least squares method. Solve the resulting system using LU factorization (method 1) and QR factorization (method 2). Provide the sum of the squared errors resulting from the above approximation for each method and give a plot that contains the data and the curve of the best fit you arrived at.
 
 
-The project was done by using jupyter notebook and in order to open it you must have an IDE that supports .ipynb files.
+The project was done by using **Jupyter Notebook** and in order to open it you must have an IDE that supports .ipynb files, such as VSCode.
