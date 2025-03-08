@@ -1,6 +1,6 @@
 # Matrices and Vector Operations in C
 
-This is my first ever project in the university, as part of the Structured Programming course in the 1st semester of my studies. It is called Matrices and Vector Operations and it is implemented in C. This is the project that got me into the world of programming and it has a special place in my heart.
+This is my first ever project in the university. It is called Matrices and Vector Operations and it is implemented in C. This is the project that got me into the world of programming and it has a special place in my heart.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This is my first ever project in the university, as part of the Structured Progr
 
 ## Introduction
 
-Welcome to the Matrices and Vector Operations in C. This is my first ever programming project as part of the Structured Programming course at my university. Although it might not be the best and most complicated project out there, it has a special place in my heart because this is the project that got me into programming. It is a simple C-based program that can perform various operations between matrices and vectors.
+Welcome to the Matrices and Vector Operations in C. This is my first ever programming project as part of the Structured Programming course at my university in the 1st semester of my  studies. Although it might not be the best and most complicated project out there, it has a special place in my heart because this is the project that got me into programming. It is a simple C-based program that can perform various operations between matrices and vectors.
 
 
 ## Features
