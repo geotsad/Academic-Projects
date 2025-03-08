@@ -52,9 +52,9 @@ To run the program, follow these steps:
 
 ## Contact
 
-* Name: Vagelis Zarkadoulas
-* Email: vagzarkadoulasdh@gmail.com
-* GitHub: vagzark
+* Name: Georgios Tsantikis
+* Email: giotsa44@gmail.com
+* GitHub: geotsad
 
 [Return to the top](#table-of-contents)
 
