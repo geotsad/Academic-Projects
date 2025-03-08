@@ -1,4 +1,5 @@
 # Brocus Project in C++
+This project was created at the 
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -8,7 +9,7 @@
 
 ## Introduction
 
-Welcome to the Blockus Project! This project is a variation of the popular game Blokus for two players (more info: https://en.wikipedia.org/wiki/Blokus) and was created by me and my fellow students as part of the Object-Oriented Programming course.
+Welcome to the Blockus Project! This project is a variation of the popular game Blokus for two players (more info: https://en.wikipedia.org/wiki/Blokus) and was created by me and my fellow students as part of the Object-Oriented Programming course in the 2nd semester of my first year of university studies.
 
 ## How it is played
 
