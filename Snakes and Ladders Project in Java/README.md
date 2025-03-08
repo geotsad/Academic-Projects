@@ -9,5 +9,22 @@
 
 ## Introduction
 
-This repository contains the implementation of the Snakes and Ladders game, developed as part of a Data Structures course assignment. The game is played on a board with snakes, ladders, and gifts, following specific rules. 
-The goal is for two players to compete and reach the final tile first.
+Welcome to the Snakes and Ladders Project in Java. This project is an implementation of the Snakes and Ladders board game, developed as part of a Data Structures course 
+assignment in the 3rd semester of my university studies.  The game is designed for two players, who roll a die and move across a board while encountering snakes, ladders, 
+and gifts. The first player to reach the final tile wins. The project follows an object-oriented approach, using multiple classes to represent game components such as the 
+board, players, snakes, ladders, and gifts.
+
+## How it is played
+
+1. Board Setup: The board is created with dimensions NxM, containing a set number of snakes, ladders, and gifts placed randomly.
+2. Turn Order: Players roll a die, and the one with the lowest number starts first.
+3. Movement:
+-The player moves forward based on the die roll.
+-Landing on a ladder base moves the player up.
+-Landing on a snake head moves the player down.
+-Landing on a gift tile may increase or decrease the player's score.
+4. Winning Condition: The first player to reach the last tile wins the game.
+
+
+
+
