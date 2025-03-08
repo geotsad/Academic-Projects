@@ -17,12 +17,15 @@ board, players, snakes, ladders, and gifts.
 ## How it is played
 
 1. Board Setup: The board is created with dimensions NxM, containing a set number of snakes, ladders, and gifts placed randomly.
+   
 2. Turn Order: Players roll a die, and the one with the lowest number starts first.
-3. Movement:
+   
+2. Movement:
 -The player moves forward based on the die roll.
 -Landing on a ladder base moves the player up.
 -Landing on a snake head moves the player down.
 -Landing on a gift tile may increase or decrease the player's score.
+
 4. Winning Condition: The first player to reach the last tile wins the game.
 
 
