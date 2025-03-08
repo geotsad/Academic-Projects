@@ -1,5 +1,4 @@
 # Brocus Project in C++
-This project was created at the 
 
 ## Table of contents
 - [Introduction](#introduction)
