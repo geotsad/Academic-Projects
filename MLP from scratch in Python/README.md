@@ -3,8 +3,8 @@
 ---
 
 ## Table of contents
-- [Project Overview](#project-overview)
-- [Features](#features)
+- [📌Project Overview](#project-overview)
+- [🚀Features](#features)
 - [Installation](#installation)
 - [Dataset: CIFAR-10](#dataset:-cIFAR-10)
 - [Model Architecture](#model-architecture)
