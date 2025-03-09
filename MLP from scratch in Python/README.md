@@ -56,7 +56,7 @@ The goal is to:
 - Downloaded and extracted automatically by the script.
 
 
-## 🔧 Model Architecture
+## Model Architecture
 | Layer | Type | Activation |
 |--------|----------------|------------|
 | Input Layer | 3072 neurons (32x32x3) | - |
