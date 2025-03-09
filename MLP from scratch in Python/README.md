@@ -3,20 +3,21 @@
 ---
 
 ## Table of contents
-- [📌Project Overview](#project-overview)
-- [🚀Features](#features)
+- [Project Overview](#project-overview)
+- [Features](#features)
 - [Installation](#installation)
-- [Dataset: CIFAR-10](#dataset:-cIFAR-10)
+- [Dataset: CIFAR-10](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training Process](#training-process)
 - [Results](#results)
 - [Key Findings](#key-findings)
+- [References](#References)
 - [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project implements a **Multi-Layer Perceptron (MLP) from scratch in Python** without using deep learning libraries like TensorFlow or PyTorch. The MLP is trained using **backpropagation** on the **CIFAR-10 dataset**, a dataset of 60,000 color images classified into 10 categories. It is developed as part of the **Neural Networks - Deep Learning** 
 course from the **Computer Science** department of AUTH in the 8th semester of my studies.
 
@@ -26,7 +27,7 @@ The goal is to:
 - Evaluate **different hyperparameters** to optimize performance.
 - Compare performance with **nearest neighbor classifiers**.
 
-## 🚀 Features
+## Features
 - **Fully connected feedforward neural network**
 - **ReLU** activation for hidden layers, **Softmax** for output
 - **Backpropagation with gradient descent**
@@ -36,7 +37,7 @@ The goal is to:
 - **Performance visualization with Matplotlib**
 - **Comparison with Nearest Neighbor classifiers**
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -49,7 +50,7 @@ The goal is to:
    ```bash
    python mlp.py
 
-## 📊 Dataset: CIFAR-10
+## Dataset: CIFAR-10
 - **10 categories**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 - **50,000 training samples**, **10,000 test samples**.
 - Downloaded and extracted automatically by the script.
@@ -70,7 +71,7 @@ The goal is to:
 
 ---
 
-## 🏋️ Training Process
+## Training Process
 1. **Download & Load CIFAR-10 dataset** automatically.
 2. **Normalize pixel values** (rescale between 0 and 1).
 3. **One-hot encode labels** for classification.
@@ -81,7 +82,7 @@ The goal is to:
 
 ---
 
-## 📈 Results
+## Results
 - **Best test accuracy achieved:** ~54.7%
 - **Optimal architecture:** `[3072, 256, 128, 10]`
 - **Improvement with batch training and learning rate scheduling.**
@@ -89,7 +90,7 @@ The goal is to:
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 ✔ Using **ReLU activation** significantly improved performance over Sigmoid.  
 ✔ **He Initialization** helped avoid vanishing/exploding gradients.  
 ✔ **Batch Training** reduced noise in gradient updates.  
@@ -98,14 +99,14 @@ The goal is to:
 
 ---
 
-## 📜 References
+## References
 - CIFAR-10 Dataset: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 - Project description: *NN_MLP(1st)_Project.pdf*
 - Full report: *Report_MLPfromscratch.pdf*
 
 ---
 
-## ✨ Future Improvements
+## Future Improvements
 - Implement **Convolutional Neural Networks (CNNs)**
 - Use **Dropout and Batch Normalization** for regularization.
 - Implement **Adam Optimizer** for adaptive learning rates.
