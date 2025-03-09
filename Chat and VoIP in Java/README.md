@@ -36,12 +36,14 @@ This project is a simple Peer-to-Peer (P2P) application that enables real-time c
 - Check the checkbox with the "pom.xml" file and click Finish.
 - The CN2_AUTH_ChatAndVoIP application must be visible in the Navigation Pane of the ECLISPE IDE.
    
-4. **Enter the remote IP address and start chatting or making calls**.
+3. **Enter the remote IP address and start chatting or making calls**.
 
 ## Notes
-- Ensure both users have the correct ports open.
-- UDP is used for minimal latency, but may not guarantee delivery.
-- The default encryption key should be changed for security purposes.
+>- Firewall and Network Configuration: Ensure that your firewall settings allow UDP traffic on the specified ports. Incorrect configurations may prevent peers from connecting.
+>- Java Version: This application requires Java 1.8 or higher. Ensure that your JAVA_HOME environment variable is correctly set to the installed Java version.
+>- Audio Hardware: Proper functioning of VoIP features depends on the availability and correct configuration of audio input/output devices (e.g., microphone and speakers).
+>- UDP is used for minimal latency, but may not guarantee delivery.
+>- The default encryption key should be changed for security purposes.
 
 ## Future Improvements
 - Support for additional encryption methods.
