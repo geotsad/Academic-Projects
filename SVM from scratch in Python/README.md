@@ -15,6 +15,7 @@
 - [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
+---
 
 ## Project Overview
 This project implements a **Support Vector Machine (SVM) from scratch in Python** without using pre-built machine learning libraries such as Scikit-Learn. 
@@ -28,6 +29,7 @@ The goal is to:
 - Reduce data dimensionality using **Principal Component Analysis (PCA)**.
 - Compare **SVM performance with Nearest Neighbor classifiers (1-NN, 3-NN, NCC)** and **Multi-Layer Perceptron (MLP)**.
 
+---
 
 ## Features
 - **Support Vector Machine (SVM) implementation from scratch**
@@ -38,6 +40,7 @@ The goal is to:
 - **Performance comparison with MLP and Nearest Neighbor classifiers**
 - **Visualization of classification results and support vectors**
 
+---
 
 ## Installation
 
@@ -52,6 +55,7 @@ The goal is to:
    ```bash
    python svm.py
 
+---
 
 ## Dataset: CIFAR-10
 - **10 categories**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
@@ -87,6 +91,7 @@ The goal is to:
 - **RBF Kernel achieved the highest test accuracy.**
 - **Comparisons with 1-NN, 3-NN, NCC, and MLP were conducted.**
 
+---
 
 ## Key Findings
 ✔ **RBF Kernel outperformed Linear and Polynomial kernel.**  
@@ -103,6 +108,7 @@ The goal is to:
 - Full report: *Report_SVMfromscratch.pdf*
 - SVM Theory: [https://en.wikipedia.org/wiki/Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
+---
 
 ## Future Improvements
 - Implement **Multi-Class SVM using One-vs-One strategy**.
@@ -111,6 +117,7 @@ The goal is to:
 - Extend to **larger datasets like ImageNet**.
 - Compare performance with **Deep Learning models (CNNs, ResNet, etc.)**.
 
+---
 
 ## Contact
 * Name: Georgios Tsantikis  
