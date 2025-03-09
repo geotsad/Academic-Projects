@@ -27,6 +27,8 @@ The goal is to:
 - Evaluate **different hyperparameters** to optimize performance.
 - Compare performance with **nearest neighbor classifiers**.
 
+---
+
 ## Features
 - **Fully connected feedforward neural network**
 - **ReLU** activation for hidden layers, **Softmax** for output
@@ -37,8 +39,9 @@ The goal is to:
 - **Performance visualization with Matplotlib**
 - **Comparison with Nearest Neighbor classifiers**
 
-## Installation
+---
 
+## Installation
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/MLP-from-Scratch.git
@@ -50,11 +53,14 @@ The goal is to:
    ```bash
    python mlp.py
 
+---
+
 ## Dataset: CIFAR-10
 - **10 categories**: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 - **50,000 training samples**, **10,000 test samples**.
 - Downloaded and extracted automatically by the script.
 
+---
 
 ## Model Architecture
 | Layer | Type | Activation |
@@ -68,6 +74,7 @@ The goal is to:
 - **Optimizer:** Batch Gradient Descent
 - **Learning Rate:** Adaptive (with decay factor `lr_decay`)
 
+---
 
 ## Training Process
 1. **Download & Load CIFAR-10 dataset** automatically.
@@ -78,6 +85,7 @@ The goal is to:
 6. **Monitor training loss, test loss, and accuracy** across epochs.
 7. **Visualize the learning curve** (Loss per epoch).
 
+---
 
 ## Results
 - **Best test accuracy achieved:** ~54.7%
@@ -85,6 +93,7 @@ The goal is to:
 - **Improvement with batch training and learning rate scheduling.**
 - **Comparison with Nearest Neighbor classifiers showed superior performance.**
 
+---
 
 ## Key Findings
 ✔ Using **ReLU activation** significantly improved performance over Sigmoid.  
@@ -93,18 +102,21 @@ The goal is to:
 ✔ **Dynamic learning rate** improved convergence.  
 ✔ **More hidden layers** improved accuracy but increased training time.
 
+---
 
 ## References
 - CIFAR-10 Dataset: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 - Project description: *NN_MLP(1st)_Project.pdf*
 - Full report: *Report_MLPfromscratch.pdf*
 
+---
 
 ## Future Improvements
 - Implement **Convolutional Neural Networks (CNNs)**
 - Use **Dropout and Batch Normalization** for regularization.
 - Implement **Adam Optimizer** for adaptive learning rates.
 
+---
 
 ## Contact
 * Name: Georgios Tsantikis
