@@ -19,7 +19,7 @@
 
 ## Project Overview
 This project implements a **Multi-Layer Perceptron (MLP) from scratch in Python** without using deep learning libraries like TensorFlow or PyTorch. The MLP is trained using **backpropagation** on the **CIFAR-10 dataset**, a dataset of 60,000 color images classified into 10 categories. It is developed as part of the **Neural Networks - Deep Learning** 
-course from the **Computer Science** department of AUTH in the 8th semester of my studies.
+course from the **Computer Science** department of AUTH in the 7th semester of my studies.
 
 The goal is to:
 - Develop an MLP **without pre-built deep learning frameworks**.
