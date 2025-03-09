@@ -58,7 +58,7 @@ The goal is to:
 - **50,000 training samples**, **10,000 test samples**.
 - Downloaded and extracted automatically by the script.
 
-## 🔧 Model Architecture
+## Model Architecture
 - **Support Vector Machine (SVM)**
 - **Kernel functions**: Linear, Polynomial, RBF
 - **Optimization Method**: Convex Optimization using Lagrange Multipliers
@@ -66,7 +66,7 @@ The goal is to:
 
 ---
 
-## 🏋️ Training Process
+## Training Process
 1. **Download & Load CIFAR-10 dataset** automatically.
 2. **Normalize pixel values** (rescale between 0 and 1).
 3. **Reduce dimensionality using PCA** (Retain 91% variance).
