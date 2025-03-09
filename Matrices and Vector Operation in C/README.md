@@ -78,7 +78,7 @@ At any time, you can select option 9 to terminate the program.
 
 * Name: Georgios Tsantikis
 * Email: giotsa44@gmail.com
-* GitHub: geotsad
+* GitHub: [geotsad](https://github.com/geotsad)
 
 [Return to the top](#matrices-and-vector-operations-in-c)
 
