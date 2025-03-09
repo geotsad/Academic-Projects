@@ -3,15 +3,15 @@
 ---
 
 ## Table of contents
-- [Project Overview](#Project-Overview)
-- [Features](#Features)
-- [Installation](#Installation)
-- [Dataset: CIFAR-10](#Dataset:-CIFAR--10)
-- [Model Architecture](#Model-Architecture)
-- [Training Process](#Training-Process)
-- [Results](#Results)
-- [Key Findings](#Key-Findings)
-- [Future Improvements](#Future-Improvements)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Dataset: CIFAR-10](#dataset:-cIFAR-10)
+- [Model Architecture](#model-architecture)
+- [Training Process](#training-process)
+- [Results](#results)
+- [Key Findings](#key-findings)
+- [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
 ---
