@@ -1,4 +1,4 @@
-# Chat and VoIP Application
+# P2P Chat and VoIP Application using UDP in Java
 
 ## Introduction
 This project is a simple Peer-to-Peer (P2P) application that enables real-time chat and Voice over IP (VoIP) communication utilizing the UDP protocol in Java. This application will be based on java.net to handle network communications, providing a foundational understanding of network programming, concurrency, and instant messaging and multimedia data exchange between two peers.It is developed as part of the **Computer Networks II** course in the 7th semester of my studies and enables two users to communicate through text messages and voice calls without relying on a central server, ensuring end-to-end encrypted communication.
