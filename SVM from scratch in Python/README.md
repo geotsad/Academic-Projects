@@ -20,7 +20,7 @@
 ## Project Overview
 This project implements a **Support Vector Machine (SVM) from scratch in Python** without using pre-built machine learning libraries such as Scikit-Learn. 
 The SVM is trained to classify **CIFAR-10 images** using various kernel functions and is developed as part of the **Neural Networks - Deep Learning** course 
-from the **Computer Science** department of AUTH in the 8th semester of my studies.
+from the **Computer Science** department of AUTH in the 7th semester of my studies.
 
 The goal is to:
 - Develop an **SVM classifier from scratch** without using high-level libraries.
