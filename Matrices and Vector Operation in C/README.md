@@ -1,4 +1,4 @@
-# Matrices and Vector Operations in C
+# Matrices and Vectors Operations in C
 
 This is my first ever project in the university. It is called Matrices and Vector Operations and it is implemented in C. This is the project that got me into the world of programming and it has a special place in my heart.
 
