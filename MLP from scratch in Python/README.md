@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Training Process](#training-process)
+- [Training Process](#training-process) 
 - [Results](#results)
 - [Key Findings](#key-findings)
 - [References](#References)
