@@ -15,7 +15,7 @@
 - [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
----
+--- 
 
 ## Project Overview
 This project implements a **Support Vector Machine (SVM) from scratch in Python** without using pre-built machine learning libraries such as Scikit-Learn. 
