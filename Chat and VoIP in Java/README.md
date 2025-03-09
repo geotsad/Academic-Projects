@@ -64,7 +64,7 @@ This project is a simple Peer-to-Peer (P2P) application that enables real-time c
 
 * Name: Georgios Tsantikis
 * Email: giotsa44@gmail.com
-* GitHub: geotsad
+* GitHub: [geotsad](https://github.com/geotsad)
 
 [Return to the top](#P2P-Chat-and-VoIP-Application-using-UDP-in-Java)
 
