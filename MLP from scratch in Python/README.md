@@ -6,10 +6,11 @@
 - [Project Overview](#Project-Overview)
 - [Features](#Features)
 - [Installation](#Installation)
-- [Dataset: CIFAR-10](#Dataset:-CIFAR-10)
+- [Dataset: CIFAR-10](#Dataset:-CIFAR--10)
 - [Model Architecture](#Model-Architecture)
 - [Training Process](#Training-Process)
 - [Results](#Results)
+- [Key Findings](#Key-Findings)
 - [Future Improvements](#Future-Improvements)
 - [Contact](#contact)
 
@@ -85,13 +86,6 @@ The goal is to:
 - **Optimal architecture:** `[3072, 256, 128, 10]`
 - **Improvement with batch training and learning rate scheduling.**
 - **Comparison with Nearest Neighbor classifiers showed superior performance.**
-
----
-
-## 📊 Performance Visualization
-The model logs training/test loss and accuracy at each epoch. Example plot:
-
-![Loss per epoch](https://via.placeholder.com/600x300.png?text=Loss+per+Epoch) *(Replace with actual plot)*
 
 ---
 
