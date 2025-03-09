@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Dataset: CIFAR-10](#dataset)
+- [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training Process](#training-process)
 - [Results](#results)
