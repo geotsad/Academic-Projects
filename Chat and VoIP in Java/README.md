@@ -29,6 +29,7 @@ This project is a simple Peer-to-Peer (P2P) application that enables real-time c
    git clone https://github.com/geotsad/CN2_AUTH_ChatAndVoIP.git
    ```
 2. **Import the code into the ECLIPSE IDE**:
+   
 -In ECLIPSE IDE select File -> Import.
 -In the displayed Window select "Existing Maven Projects" anc click Next.
 -Them click on the Browse button and navigate inside the CN2_AUTH_ChatAndVoIP folder and click on the "Select Folder" button.
