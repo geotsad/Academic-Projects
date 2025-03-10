@@ -75,16 +75,6 @@ Ensure you have **MATLAB** installed on your system.
    - Select a **SWIPT-optimized constellation** from [R2].
    - Compare its performance with conventional schemes.
 
----
-
-## Simulation Results
-Below is an example of **PAPR vs. 𝑑𝑚𝑖𝑛** for different modulation schemes:
-
-![PAPR Results](https://via.placeholder.com/600x300.png?text=PAPR+vs+Minimum+Euclidean+Distance) *(Replace with actual plot)*
-
-Example **SEP vs. normalized harvested energy** simulation:
-
-![SEP vs Energy](https://via.placeholder.com/600x300.png?text=SEP+vs+Energy) *(Replace with actual plot)*
 
 ---
 
