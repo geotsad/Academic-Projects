@@ -51,10 +51,10 @@ Ensure you have **MATLAB** installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/SWIPT-Constellation-Design.git
+   git clone https://github.com/geotsad/SWIPT-Constellation-Design.git
    cd SWIPT-Constellation-Design
 2. **Open MATLAB** and navigate to the project directory.
 3. Run the simulation files:
-   - plot_CQAM_N4.mlx → Simulates 16-CQAM with N=4.
+   - ''plot_CQAM_N4.mlx'' → Simulates 16-CQAM with N=4.
    - plot_CQAM_N8.mlx → Simulates 16-CQAM with N=8.
    - telecommunications.mlx → Main file for running SWIPT simulations.
