@@ -78,13 +78,6 @@ Ensure you have **MATLAB** installed on your system.
 
 ---
 
-## References
-- **[R1]** Constellation Design for SWIPT: [https://ieeexplore.ieee.org/document/XXXXXX](https://ieeexplore.ieee.org/document/XXXXXX)
-- **[R2]** Advanced SWIPT Modulation Schemes: [https://ieeexplore.ieee.org/document/YYYYYY](https://ieeexplore.ieee.org/document/YYYYYY)
-- MATLAB Documentation: [https://www.mathworks.com/help/](https://www.mathworks.com/help/)
-
----
-
 ## Future Work
 - Implement **higher-order modulations (e.g., 64-CQAM, 256-CQAM)**.
 - Extend analysis to **fading channels**.
