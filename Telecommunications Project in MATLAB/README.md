@@ -7,7 +7,7 @@ This is a project that was created by me for the course **Communication Systems 
 - Fig. 2 in [R1] represents the PAPR behavior versus 𝑑𝑚𝑖𝑛 of 16-Circular QAM compared with known modulation schemes, namely 16-PAM, 16-PSK, and 16-QAM. Provide theoretical analysis about PAPR versus 𝑑𝑚𝑖𝑛 for all the above constellations and verify the results in Fig. 2 through simulation.
 - Fig. 3 in [R1] illustrates SEP versus normalized harvested energy of the modulation schemes for fixed SNR. Furthermore, Fig. 4 in [R1] illustrates SEP versus SNR for fixed normalized energy harvesting. Verify these results through both theoretical analysis and simulation results. Include in your analysis, one of the state-of-the-art constellation schemes for SWIPT presented in [R2].
 
-## 📌 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Installation](#installation)
@@ -55,6 +55,58 @@ Ensure you have **MATLAB** installed on your system.
    cd SWIPT-Constellation-Design
 2. **Open MATLAB** and navigate to the project directory.
 3. Run the simulation files:
-   - ''plot_CQAM_N4.mlx'' → Simulates 16-CQAM with N=4.
+   - plot_CQAM_N4.mlx → Simulates 16-CQAM with N=4.
    - plot_CQAM_N8.mlx → Simulates 16-CQAM with N=8.
    - telecommunications.mlx → Main file for running SWIPT simulations.
+  
+---
+
+## Methodology
+1. **PAPR Analysis**:
+   - Compute theoretical PAPR for **16-PAM, 16-PSK, 16-QAM, and 16-CQAM**.
+   - Validate results through MATLAB simulations.
+   - Compare **PAPR vs. 𝑑𝑚𝑖𝑛** across different modulation schemes.
+
+2. **Symbol Error Probability (SEP) Analysis**:
+   - Derive SEP expressions for different modulation formats.
+   - Simulate SEP vs. **SNR** (Fig. 4 in [R1]).
+
+3. **State-of-the-Art Constellation Integration**:
+   - Select a **SWIPT-optimized constellation** from [R2].
+   - Compare its performance with conventional schemes.
+
+---
+
+## Simulation Results
+Below is an example of **PAPR vs. 𝑑𝑚𝑖𝑛** for different modulation schemes:
+
+![PAPR Results](https://via.placeholder.com/600x300.png?text=PAPR+vs+Minimum+Euclidean+Distance) *(Replace with actual plot)*
+
+Example **SEP vs. normalized harvested energy** simulation:
+
+![SEP vs Energy](https://via.placeholder.com/600x300.png?text=SEP+vs+Energy) *(Replace with actual plot)*
+
+---
+
+## References
+- **[R1]** Constellation Design for SWIPT: [https://ieeexplore.ieee.org/document/XXXXXX](https://ieeexplore.ieee.org/document/XXXXXX)
+- **[R2]** Advanced SWIPT Modulation Schemes: [https://ieeexplore.ieee.org/document/YYYYYY](https://ieeexplore.ieee.org/document/YYYYYY)
+- MATLAB Documentation: [https://www.mathworks.com/help/](https://www.mathworks.com/help/)
+
+---
+
+## Future Work
+- Implement **higher-order modulations (e.g., 64-CQAM, 256-CQAM)**.
+- Extend analysis to **fading channels**.
+- Compare **different power allocation strategies** for SWIPT.
+- Optimize **energy harvesting efficiency**.
+
+---
+
+## Contact
+* Name: **Georgios Tsantikis**  
+* Email: **giotsa44@gmail.com**  
+* GitHub: [geotsad](https://github.com/geotsad)
+
+[Return to the top](#table-of-contents)
+
