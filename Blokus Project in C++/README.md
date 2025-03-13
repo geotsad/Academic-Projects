@@ -54,7 +54,7 @@ To run the program, follow these steps:
 
 * Name: Georgios Tsantikis
 * Email: giotsa44@gmail.com
-* GitHub: [geotsad](https://github.com/geotsad)
+* GitHub: [geotsad]([https://github.com/geotsad/Academic-Projects)
 
 [Return to the top](#table-of-contents)
 
