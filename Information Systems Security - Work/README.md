@@ -40,3 +40,11 @@ To secure the application against the aforementioned threats, the following defe
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/geotsad/Academic-Projects.git](https://github.com/geotsad/Academic-Projects.git)
+
+2. Move the passman project folder into the htdocs directory of your XAMPP installation.
+
+3. Start the Apache and MySQL modules from the XAMPP Control Panel.
+
+4. Import the provided database schema (pwd_mgr) into MySQL using HeidiSQL or phpMyAdmin.
+
+5. Access the application via your browser at https://localhost/passman/index.html (Ensure SSL is configured for HTTPS).
