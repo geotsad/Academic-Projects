@@ -7,3 +7,4 @@ This repository contains all the coding projects and assignments from my univers
 - **Java**
 - **Python**
 - **MATLAB**
+- **MySQL**
