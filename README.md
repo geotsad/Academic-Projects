@@ -17,10 +17,13 @@ Below you will find a curated list of my most significant projects, demonstratin
 ---
 
 ## 📁 Other Coursework & Implementations
+* **[Telecommunications Simulation](./Telecommunications%20Project%20in%20MATLAB):** Analyzed and simulated advanced modulation schemes for SWIPT, evaluating PAPR and SEP for optimized signal transmission in MATLAB.
 * **[Optimization Techniques](./Optimization%20Techniques):** 1D and multi-dimensional mathematical optimization algorithms (Steepest Descent, Newton's Method) in MATLAB.
+* **[Numerical Analysis Project](./Numerical%20Analysis%20Project%20in%20Python):** Implemented numerical methods for solving linear systems and polynomial approximation using Jupyter Notebook.
 * **[Chat & VoIP P2P Application](./Chat%20and%20VoIP%20in%20Java):** Java application using UDP sockets and real-time audio transmission.
 * **[Matrices and Vectors Operations](./Matrices%20and%20Vectors%20Operations%20in%20C):** Highly optimized computational performance for large-scale numerical problems in C.
 * **[Blokus Game AI](./Blokus%20Project%20in%20C++):** AI-based game solver focusing on game logic and heuristic evaluation in C++.
+* **[Snakes and Ladders Game](./Snakes%20and%20Ladders%20Project%20in%20Java):** Created a fully functional digital board game using object-oriented design and GUI elements in Java.
 
 ---
 
