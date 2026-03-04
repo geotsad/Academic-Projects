@@ -52,3 +52,12 @@ Focuses on partitioning an image into multiple segments (sets of pixels) using a
 4. Launch Jupyter Notebook to view and run the code:
    ```bash
    jupyter notebook
+
+---
+
+## Contact
+* Name: Georgios Tsantikis  
+* Email: giotsa44@gmail.com  
+* GitHub: [geotsad](https://github.com/geotsad)
+
+[Return to the top](#table-of-contents)
