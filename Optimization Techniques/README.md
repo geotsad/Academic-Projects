@@ -54,3 +54,12 @@ The comprehensive final project synthesizes the above methods, typically applyin
 3. Each assignment (Work1, Work2, Work3, Project) is organized in its respective folder.
 
 4. Run the main scripts (e.g., main.m or report_script.m) within each folder to view the results and generated plots.
+
+---
+
+## Contact
+* Name: Georgios Tsantikis  
+* Email: giotsa44@gmail.com  
+* GitHub: [geotsad](https://github.com/geotsad)
+
+[Return to the top](#table-of-contents)
