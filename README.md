@@ -1,7 +1,6 @@
 # Academic Projects - ECE AUTH
 Welcome to my academic projects repository. This collection includes projects developed during my undergraduate studies at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.
 
-Below you will find a curated list of my most significant projects, demonstrating my practical experience across the Software Development Life Cycle (SDLC), AI model implementation, and system security.
 
 ## Featured Projects (The Highlights)
 
