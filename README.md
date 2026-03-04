@@ -8,7 +8,7 @@ Below you will find a curated list of my most significant projects, demonstratin
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[Full-Stack Web App & DevOps](./Software%20Engineering%20Project)** | `React`, `Node.js`, `GitHub Actions`, `k6` | Developed a full-stack application using **Agile** methodologies. Built automated **CI/CD pipelines** for deployment, implemented unit/E2E testing, and conducted static/dynamic analysis. |
-| **[Web Application Security](./Web%20Application%20Security%20&%20Vulnerability%20Remedation)** | `MySQL`, `AES-256`, `SHA-256` | Conducted a comprehensive vulnerability assessment. Mitigated **SQL Injection** and **XSS** flaws, and secured sensitive data transmission. |
+| **[Web Application Security](./Web%20Application%20Security%20&%20Vulnerability%20Remediation)** | `MySQL`, `AES-256`, `SHA-256` | Conducted a comprehensive vulnerability assessment. Mitigated **SQL Injection** and **XSS** flaws, and secured sensitive data transmission. |
 | **[Neural Networks from Scratch](./MLP%20from%20scratch%20in%20Python)** | `Python`, `NumPy` | Implemented MLP, RBFNN, and SVM classification models entirely **from scratch** to deeply understand the underlying mathematics of backpropagation and optimization. |
 | **[Digital Image Processing](./Digital%20Image%20Processing%20Projects%20in%20Python)** | `Python`, `SciPy`, `NumPy` | Implemented core image analysis algorithms, including Hough Transform for object detection and advanced graph-based segmentation (Spectral Clustering). |
 
