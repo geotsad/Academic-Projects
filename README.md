@@ -3,7 +3,7 @@ Welcome to my academic projects repository. This collection includes projects de
 
 Below you will find a curated list of my most significant projects, demonstrating my practical experience across the Software Development Life Cycle (SDLC), AI model implementation, and system security.
 
-## 🌟 Featured Projects (The Highlights)
+## Featured Projects (The Highlights)
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ Below you will find a curated list of my most significant projects, demonstratin
 
 ---
 
-## 📁 Other Coursework & Implementations
+## Other Coursework & Implementations
 * **[Telecommunications Simulation](./Telecommunications%20Project%20in%20MATLAB):** Analyzed and simulated advanced modulation schemes for SWIPT, evaluating PAPR and SEP for optimized signal transmission in MATLAB.
 * **[Optimization Techniques](./Optimization%20Techniques):** 1D and multi-dimensional mathematical optimization algorithms (Steepest Descent, Newton's Method) in MATLAB.
 * **[Numerical Analysis Project](./Numerical%20Analysis%20Project%20in%20Python):** Implemented numerical methods for solving linear systems and polynomial approximation using Jupyter Notebook.
@@ -27,11 +27,11 @@ Below you will find a curated list of my most significant projects, demonstratin
 
 ---
 
-## 🛠️ Languages & Technologies Used Across Projects
+## Languages & Technologies Used Across Projects
 * **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
 * **Web Development & DevOps:** Node.js, React, Express, GitHub Actions, CI/CD
 * **Core Languages:** Python, C/C++, Java, MATLAB, SQL
 
-## 📫 Connect with me
+## Connect with me
 * **LinkedIn:** [Georgios Tsantikis](https://www.linkedin.com/in/georgios-tsantikis-8b7800261/)
 * **Email:** [giotsa44@gmail.com]
