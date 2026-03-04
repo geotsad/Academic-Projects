@@ -19,7 +19,7 @@ Below you will find a curated list of my most significant projects, demonstratin
 ## 📁 Other Coursework & Implementations
 * **[Optimization Techniques](./Optimization%20Techniques):** 1D and multi-dimensional mathematical optimization algorithms (Steepest Descent, Newton's Method) in MATLAB.
 * **[Chat & VoIP P2P Application](./Chat%20and%20VoIP%20in%20Java):** Java application using UDP sockets and real-time audio transmission.
-* **[Matrices and Vectors Operations](./Matrices%20and%20Vectors%20Operations...):** Highly optimized computational performance for large-scale numerical problems in C.
+* **[Matrices and Vectors Operations](./Matrices%20and%20Vectors%20Operations%20in%20C):** Highly optimized computational performance for large-scale numerical problems in C.
 * **[Blokus Game AI](./Blokus%20Project%20in%20C++):** AI-based game solver focusing on game logic and heuristic evaluation in C++.
 
 ---
