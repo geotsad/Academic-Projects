@@ -33,5 +33,5 @@ Below you will find a curated list of my most significant projects, demonstratin
 * **Core Languages:** Python, C/C++, Java, MATLAB, SQL
 
 ## 📫 Connect with me
-* **LinkedIn:** * [Georgios Tsantikis](https://www.linkedin.com/in/georgios-tsantikis-8b7800261/)
+* **LinkedIn:** [Georgios Tsantikis](https://www.linkedin.com/in/georgios-tsantikis-8b7800261/)
 * **Email:** [giotsa44@gmail.com]
