@@ -55,3 +55,13 @@ The final phase focused on rigorous quality assurance and vulnerability mitigati
    cd frontend
    npm install
    npm start
+
+
+---
+
+## Contact
+* Name: Georgios Tsantikis  
+* Email: giotsa44@gmail.com  
+* GitHub: [geotsad](https://github.com/geotsad)
+
+[Return to the top](#table-of-contents)
